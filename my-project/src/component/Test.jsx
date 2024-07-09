@@ -1,9 +1,10 @@
+import Avatar from "./Avatar";
 
 const Test = () => {
   return (
-    <div>
-      
-    </div>
+    <Avatar  person={{ name: 'Lin Lanying', imageId: '1bX5QH6' }}
+    size={100}></Avatar>
+    
   )
 };
 
