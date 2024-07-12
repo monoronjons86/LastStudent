@@ -1,29 +1,32 @@
+import { sculptureList } from './apple.js';
 
+export default function Gallery() {
+  let index = 0;
 
+  function handleClick() {
+    index = index + 1;
+  }
 
-function Button({ onMash, children }) {
+  let sculpture = sculptureList[index];
   return (
-    <button onClick={e => {
-      e.stopPropagation();
-      onMash();
-    }}>
-      {children}
-    </button>
+    <>
+      <button onClick={handleClick}>
+        Next
+      </button>
+      <h2>
+        <i>{sculpture.name} </i> 
+        by {sculpture.artist}
+      </h2>
+      <h3>  
+        ({index + 1} of {sculptureList.length})
+      </h3>
+      <img 
+        src={sculpture.url} 
+        alt={sculpture.alt}
+      />
+      <p>
+        {sculpture.description}
+      </p>
+    </>
   );
 }
-
-export default function Home() {
-  return (
-    <div className="Toolbar" onClick={() => {
-      console.log('You clicked on the toolbar!');
-    }}>
-      <Button onMash={() => console.log('Playing!')}>
-        Play Movie
-      </Button>
-      <Button onMash={() =>console.log('Uploading!')}>
-        Upload Image
-      </Button>
-    </div>
-  );
-}
-
