@@ -25,10 +25,21 @@
 // }
 
 export default function App(){
+  function handleClick(){
+    alert('button clicked');
+  }
+  const butonClick1=()=>{
+    alert('button two is clicked')
+  }
+  const button3=(btn)=>{
+    alert(btn+5);
+  }
   return(
     <>
      <h3>React core concept 2</h3>
-     <button>Click me</button>
+     <button onClick={handleClick}>Click me</button>
+     <button onClick={butonClick1}>Click two</button>
+     <button onClick={()=>button3(5)}>Click five</button>
     </>
   )
 
