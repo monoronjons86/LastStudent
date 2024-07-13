@@ -1,6 +1,8 @@
 // import Actor from "./Actor";
 // import Singer from "./Singer";
 
+import Counter from "./Counter";
+
 // export default function App() {
 //   const actors=['Sakib','sorib','tomal','rahim'];
 //   const singers=[
@@ -25,6 +27,7 @@
 // }
 
 export default function App(){
+  <Counter></Counter>
   function handleClick(){
     alert('button clicked');
   }
