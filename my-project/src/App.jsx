@@ -1,6 +1,9 @@
 // import Actor from "./Actor";
 // import Singer from "./Singer"
 
+import Friends from "./Friends";
+import User from "./User";
+
 // export default function App() {
 //   const actors=['Sakib','sorib','tomal','rahim'];
 //   const singers=[
@@ -36,6 +39,8 @@ export default function App(){
   }
   return(
     <>
+    <Friends></Friends>
+    <User></User>
      <h3>React core concept 2</h3>
      <button onClick={handleClick}>Click me</button>
      <button onClick={butonClick1}>Click two</button>
