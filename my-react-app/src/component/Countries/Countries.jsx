@@ -15,6 +15,7 @@ const Countries = () => {
     const handleVisitedCountry=country=>{
         console.log('add this visited your country');
         // console.log(country);
+        //I dont understand the part
     }
   return (
     <div>
