@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Bottle A",
+        "volume": "500ml",
+        "type": "Water",
+        "price": 1.25,
+        "manufacturer": "Company A"
+    },
+    {
+        "id": 2,
+        "name": "Bottle B",
+        "volume": "750ml",
+        "type": "Juice",
+        "price": 2.50,
+        "manufacturer": "Company B"
+    },
+    {
+        "id": 3,
+        "name": "Bottle C",
+        "volume": "1L",
+        "type": "Soda",
+        "price": 1.75,
+        "manufacturer": "Company C"
+    },
+    {
+        "id": 4,
+        "name": "Bottle D",
+        "volume": "500ml",
+        "type": "Water",
+        "price": 1.20,
+        "manufacturer": "Company D"
+    },
+    {
+        "id": 5,
+        "name": "Bottle E",
+        "volume": "1.5L",
+        "type": "Juice",
+        "price": 3.00,
+        "manufacturer": "Company E"
+    },
+    {
+        "id": 6,
+        "name": "Bottle F",
+        "volume": "600ml",
+        "type": "Soda",
+        "price": 1.50,
+        "manufacturer": "Company F"
+    },
+    {
+        "id": 7,
+        "name": "Bottle G",
+        "volume": "500ml",
+        "type": "Water",
+        "price": 1.30,
+        "manufacturer": "Company G"
+    },
+    {
+        "id": 8,
+        "name": "Bottle H",
+        "volume": "1L",
+        "type": "Juice",
+        "price": 2.80,
+        "manufacturer": "Company H"
+    },
+    {
+        "id": 9,
+        "name": "Bottle I",
+        "volume": "330ml",
+        "type": "Soda",
+        "price": 1.00,
+        "manufacturer": "Company I"
+    },
+    {
+        "id": 10,
+        "name": "Bottle J",
+        "volume": "750ml",
+        "type": "Water",
+        "price": 1.50,
+        "manufacturer": "Company J"
+    },
+    {
+        "id": 11,
+        "name": "Bottle K",
+        "volume": "500ml",
+        "type": "Juice",
+        "price": 2.20,
+        "manufacturer": "Company K"
+    },
+    {
+        "id": 12,
+        "name": "Bottle L",
+        "volume": "1L",
+        "type": "Soda",
+        "price": 1.60,
+        "manufacturer": "Company L"
+    },
+    {
+        "id": 13,
+        "name": "Bottle M",
+        "volume": "500ml",
+        "type": "Water",
+        "price": 1.10,
+        "manufacturer": "Company M"
+    },
+    {
+        "id": 14,
+        "name": "Bottle N",
+        "volume": "1.5L",
+        "type": "Juice",
+        "price": 3.10,
+        "manufacturer": "Company N"
+    },
+    {
+        "id": 15,
+        "name": "Bottle O",
+        "volume": "600ml",
+        "type": "Soda",
+        "price": 1.40,
+        "manufacturer": "Company O"
+    },
+    {
+        "id": 16,
+        "name": "Bottle P",
+        "volume": "500ml",
+        "type": "Water",
+        "price": 1.35,
+        "manufacturer": "Company P"
+    },
+    {
+        "id": 17,
+        "name": "Bottle Q",
+        "volume": "1L",
+        "type": "Juice",
+        "price": 2.90,
+        "manufacturer": "Company Q"
+    },
+    {
+        "id": 18,
+        "name": "Bottle R",
+        "volume": "330ml",
+        "type": "Soda",
+        "price": 0.90,
+        "manufacturer": "Company R"
+    },
+    {
+        "id": 19,
+        "name": "Bottle S",
+        "volume": "750ml",
+        "type": "Water",
+        "price": 1.60,
+        "manufacturer": "Company S"
+    },
+    {
+        "id": 20,
+        "name": "Bottle T",
+        "volume": "500ml",
+        "type": "Juice",
+        "price": 2.30,
+        "manufacturer": "Company T"
+    }
+]

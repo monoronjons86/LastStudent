@@ -15,9 +15,7 @@ const Countries = () => {
     const handleVisitedCountry=country=>{
         console.log('add this visited your country');
         // console.log(country);
-        //I dont understand the part
-        //we don't know the understand the line
-    }
+           }
   return (
     <div>
       <h1>Countries:{countries.length}</h1>
