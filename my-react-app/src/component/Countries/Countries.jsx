@@ -16,6 +16,7 @@ const Countries = () => {
         console.log('add this visited your country');
         // console.log(country);
         //I dont understand the part
+        //we don't know the understand the line
     }
   return (
     <div>
