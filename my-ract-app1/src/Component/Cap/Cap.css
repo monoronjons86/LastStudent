@@ -1,0 +1,8 @@
+.cap{
+    border:2px solid red;
+    padding:10px;
+    border-radius: 12px;
+}
+.cap image_url{
+    height: 20px;
+}

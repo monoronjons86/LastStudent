@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "color": "Red",
+        "material": "Plastic",
+        "diameter": "28mm",
+        "type": "Screw Cap",
+        "img": "http://example.com/images/cap1.jpg"
+    },
+    {
+        "id": 2,
+        "color": "Blue",
+        "material": "Aluminum",
+        "diameter": "30mm",
+        "type": "Snap Cap",
+        "img": "http://example.com/images/cap2.jpg"
+    },
+    {
+        "id": 3,
+        "color": "Green",
+        "material": "Plastic",
+        "diameter": "25mm",
+        "type": "Screw Cap",
+        "image_url": "http://example.com/images/cap3.jpg"
+    },
+    {
+        "id": 4,
+        "color": "Yellow",
+        "material": "Plastic",
+        "diameter": "28mm",
+        "type": "Flip Top",
+        "image_url": "http://example.com/images/cap4.jpg"
+    },
+    {
+        "id": 5,
+        "color": "Black",
+        "material": "Metal",
+        "diameter": "32mm",
+        "type": "Crown Cap",
+        "image_url": "http://example.com/images/cap5.jpg"
+    },
+    {
+        "id": 6,
+        "color": "White",
+        "material": "Plastic",
+        "diameter": "26mm",
+        "type": "Screw Cap",
+        "image_url": "http://example.com/images/cap6.jpg"
+    },
+    {
+        "id": 7,
+        "color": "Orange",
+        "material": "Plastic",
+        "diameter": "29mm",
+        "type": "Flip Top",
+        "image_url": "http://example.com/images/cap7.jpg"
+    },
+    {
+        "id": 8,
+        "color": "Purple",
+        "material": "Plastic",
+        "diameter": "28mm",
+        "type": "Screw Cap",
+        "image_url": "http://example.com/images/cap8.jpg"
+    },
+    {
+        "id": 9,
+        "color": "Pink",
+        "material": "Plastic",
+        "diameter": "27mm",
+        "type": "Snap Cap",
+        "image_url": "http://example.com/images/cap9.jpg"
+    },
+    {
+        "id": 10,
+        "color": "Gray",
+        "material": "Metal",
+        "diameter": "31mm",
+        "type": "Crown Cap",
+        "image_url": "http://example.com/images/cap10.jpg"
+    },
+    {
+        "id": 11,
+        "color": "Red",
+        "material": "Plastic",
+        "diameter": "30mm",
+        "type": "Screw Cap",
+        "image_url": "http://example.com/images/cap11.jpg"
+    },
+    {
+        "id": 12,
+        "color": "Blue",
+        "material": "Plastic",
+        "diameter": "28mm",
+        "type": "Flip Top",
+        "image_url": "http://example.com/images/cap12.jpg"
+    },
+    {
+        "id": 13,
+        "color": "Green",
+        "material": "Metal",
+        "diameter": "32mm",
+        "type": "Crown Cap",
+        "image_url": "http://example.com/images/cap13.jpg"
+    },
+    {
+        "id": 14,
+        "color": "Yellow",
+        "material": "Plastic",
+        "diameter": "25mm",
+        "type": "Snap Cap",
+        "image_url": "http://example.com/images/cap14.jpg"
+    },
+    {
+        "id": 15,
+        "color": "Black",
+        "material": "Plastic",
+        "diameter": "27mm",
+        "type": "Screw Cap",
+        "image_url": "http://example.com/images/cap15.jpg"
+    },
+    {
+        "id": 16,
+        "color": "White",
+        "material": "Metal",
+        "diameter": "28mm",
+        "type": "Flip Top",
+        "image_url": "http://example.com/images/cap16.jpg"
+    },
+    {
+        "id": 17,
+        "color": "Orange",
+        "material": "Plastic",
+        "diameter": "30mm",
+        "type": "Screw Cap",
+        "image_url": "http://example.com/images/cap17.jpg"
+    },
+    {
+        "id": 18,
+        "color": "Purple",
+        "material": "Plastic",
+        "diameter": "26mm",
+        "type": "Snap Cap",
+        "image_url": "http://example.com/images/cap18.jpg"
+    },
+    {
+        "id": 19,
+        "color": "Pink",
+        "material": "Plastic",
+        "diameter": "29mm",
+        "type": "Flip Top",
+        "image_url": "http://example.com/images/cap19.jpg"
+    },
+    {
+        "id": 20,
+        "color": "Gray",
+        "material": "Plastic",
+        "diameter": "28mm",
+        "type": "Screw Cap",
+        "image_url": "http://example.com/images/cap20.jpg"
+    }
+]
