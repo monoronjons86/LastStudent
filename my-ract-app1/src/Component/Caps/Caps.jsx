@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-key */
 import { useEffect } from "react";
 import { useState } from "react";
 import Cap from "../Cap/Cap";
