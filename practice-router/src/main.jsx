@@ -9,6 +9,10 @@ import {
 import Home from './component/Home/Home';
 import About from './component/About/About';
 import Contact from './component/contact/Contact';
+import Users from './component/users/Users';
+import Pasts from './component/posts/Pasts';
+import PastDetails from './component/postDetails/PastDetails';
+
 
 const router=createBrowserRouter([
   {
@@ -23,7 +27,23 @@ const router=createBrowserRouter([
         path:'contact',
         element:<Contact></Contact>
 
-      }
+      },
+      {
+        path:'/posts',
+        loader:()=>fetch('https://jsonplaceholder.typicode.com/posts'),
+        element:<Pasts></Pasts>
+      },
+      {
+        path:'posts/:postId',
+        loader:({params})=>fetch(`https://jsonplaceholder.typicode.com/users ${params.postId}`),
+        element:<PastDetails></PastDetails>
+      },
+      {
+        path:'users',
+        loader:()=>fetch('https://jsonplaceholder.typicode.com/users'),
+        element:<Users></Users>
+      },
+     
     ]
   }
 ])
