@@ -8,10 +8,12 @@ import {
 import Roots from './Components/Roots/Roots';
 import Home from './Components/Home/Home';
 import AppliedJobs from './Components/AppliedJobs/AppliedJobs';
+import ErrorPage from './Components/ErrorPage/ErrorPage';
 const router = createBrowserRouter([
   {
     path: "/",
     element:<Roots></Roots>,
+    errorElement:<ErrorPage></ErrorPage>,
     children:[
       {
         path:"/",
